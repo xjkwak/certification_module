@@ -1,0 +1,6 @@
+name: Certification Module
+type: module
+description: A module to practice for the Drupal Certification
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
