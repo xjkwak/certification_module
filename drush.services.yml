@@ -1,0 +1,5 @@
+services:
+  certification_module.commands:
+    class: \Drupal\certification_module\Commands\CertificationModuleCommands
+    tags:
+      - { name: drush.command }
